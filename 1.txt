@@ -1,0 +1,6 @@
+Git Commands:
+1)To Initialize : Git init
+2)To add : git add "file name"
+3)To Commit : git commit -m "message text"
+4) To push : git push -u origin main
+
